@@ -329,3 +329,10 @@ canvas[data-chart] {
 .reveal .hljs {
   min-height: 50%;
 }
+
+.reveal figcaption {
+  color: rgb(200, 200, 200);
+  font-size: 66%;
+  font-family: "Montserrat";
+  font-style: italic;
+}
